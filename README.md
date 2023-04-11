@@ -2,7 +2,9 @@
 
 # MVP(Minimum Viable Prodocut)
 
--- Location search
+-- Input location (Input-field)
+-- Search location (Search button)
+-- The weather report(WeatherInfo-div)
 
 # Design <Look>
 
