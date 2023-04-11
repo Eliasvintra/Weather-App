@@ -1,0 +1,46 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #e2fcfd;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 50px;
+  }
+  
+  #location {
+    background-color: rgba(200, 200, 200, 0.5);
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 35px;
+    width: 70%;
+  }
+  
+  #search-btn {
+    padding: 10px;
+    background-color: #9fffaf;
+    color: #333;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+  }
+  
+  #weather-info {
+    margin-top: 60px;
+    color: #333;
+  }
+  
+  #copy-write {
+      margin-top: 300px;
+      color: #333;
+  }
+  
